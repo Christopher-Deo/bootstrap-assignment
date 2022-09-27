@@ -1,0 +1,15 @@
+.headerImg{
+    max-height: 150px;
+    max-width: auto;
+}
+
+form{
+    background-color: lightgrey;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+table{
+    background-color: lightgray;
+}
